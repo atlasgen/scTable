@@ -1,24 +1,13 @@
 [
 	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
 		"shipPrice": "29"
 	},
 	{
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-
-	},
-	{
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-	},
-	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
@@ -26,25 +15,14 @@
 
 	},
 	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
 		"shipPrice": "29"
 	},
 	{
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-
-	},
-	{
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-	},
-	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
@@ -52,12 +30,14 @@
 
 	},
 	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
 		"shipPrice": "29"
 	},
 	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
@@ -65,12 +45,44 @@
 
 	},
 	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
 		"shipPrice": "29"
 	},
 	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "Simone",
+		"shipPrice": "29"
+
+	},
+	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "Simone",
+		"shipPrice": "29"
+	},
+	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "Simone",
+		"shipPrice": "29"
+
+	},
+	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "Simone",
+		"shipPrice": "29"
+	},
+	{
+		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
 		"buyingLocation": "Simone",
