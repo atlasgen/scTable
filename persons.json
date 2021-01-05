@@ -3,29 +3,14 @@
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
 		"shipPrice": "29"
 	},
 	{
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-
-	},
-	{
-		"shipManufacturer": "MISC",
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-	},
-	{
-		"shipManufacturer": "MISC",
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
 		"shipPrice": "29"
 
 	},
@@ -33,29 +18,14 @@
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
 		"shipPrice": "29"
 	},
 	{
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-
-	},
-	{
-		"shipManufacturer": "MISC",
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
-		"shipPrice": "29"
-	},
-	{
-		"shipManufacturer": "MISC",
-		"shipName": "1",
-		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
 		"shipPrice": "29"
 
 	},
@@ -63,14 +33,14 @@
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
 		"shipPrice": "29"
 	},
 	{
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
 		"shipPrice": "29"
 
 	},
@@ -78,14 +48,44 @@
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
 		"shipPrice": "29"
 	},
 	{
 		"shipManufacturer": "MISC",
 		"shipName": "1",
 		"shipType": "Brandon",
-		"buyingLocation": "Simone",
+		"buyingLocation": "",
+		"shipPrice": "29"
+
+	},
+	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "",
+		"shipPrice": "29"
+	},
+	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "",
+		"shipPrice": "29"
+
+	},
+	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "",
+		"shipPrice": "29"
+	},
+	{
+		"shipManufacturer": "MISC",
+		"shipName": "1",
+		"shipType": "Brandon",
+		"buyingLocation": "",
 		"shipPrice": "29"
 
 	}
