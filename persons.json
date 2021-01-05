@@ -4,21 +4,21 @@
    "Ship": "100i",
    "Role": "Starter; Touring",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "Origin",
    "Ship": "125a",
    "Role": "Starter; Light Fighter",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "Origin",
    "Ship": "135c",
    "Role": "Starter; Light Fighter",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "Origin",
@@ -179,7 +179,7 @@
    "Ship": "C8X Pisces",
    "Role": "",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "Anvil",
@@ -438,7 +438,7 @@
    "Ship": "Mercury Star Runner",
    "Role": "",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "Argo",
@@ -501,7 +501,7 @@
    "Ship": "Nomad",
    "Role": "",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "Aopoa",
@@ -529,7 +529,7 @@
    "Ship": "P-72 Archimedes",
    "Role": "",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "MISC",
@@ -641,7 +641,7 @@
    "Ship": "Sabre Raven",
    "Role": "",
    "Location": "",
-   "aUEC": "Not Available"
+   "aUEC": ""
  },
  {
    "Manufacturer": "Esperia",
