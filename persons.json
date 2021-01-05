@@ -25,154 +25,154 @@
     "Ship": "300i",
     "Role": "Touring",
     "Location": "",
-    "aUEC": "767,200"
+    "aUEC": 767200
   },
   {
     "Manufacturer": "Origin",
     "Ship": "315p",
     "Role": "Pathfinder",
     "Location": "",
-    "aUEC": "882,600"
+    "aUEC": 882600
   },
   {
     "Manufacturer": "Origin",
     "Ship": "325a",
     "Role": "Interdiction",
     "Location": "",
-    "aUEC": "944,200"
+    "aUEC": 944200
   },
   {
     "Manufacturer": "Origin",
     "Ship": "350r",
     "Role": "Racing",
     "Location": "",
-    "aUEC": "1,602,100"
+    "aUEC": 1602100
   },
   {
     "Manufacturer": "Origin",
     "Ship": "600i",
     "Role": "Expedition",
     "Location": "",
-    "aUEC": "9,475,100"
+    "aUEC": 9475100
   },
   {
     "Manufacturer": "Origin",
     "Ship": "600i Touring",
     "Role": "Touring",
     "Location": "",
-    "aUEC": "9,894,000"
+    "aUEC": 9894000
   },
   {
     "Manufacturer": "Origin",
     "Ship": "85x",
     "Role": "Touring",
     "Location": "",
-    "aUEC": "574,500"
+    "aUEC": 574500
   },
   {
     "Manufacturer": "Origin",
     "Ship": "890 Jump",
     "Role": "Touring",
     "Location": "",
-    "aUEC": "32,294,500"
+    "aUEC": 32294500
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Arrow",
     "Role": "",
     "Location": "",
-    "aUEC": "972,300"
+    "aUEC": 972300
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Aurora CL",
     "Role": "",
     "Location": "",
-    "aUEC": "487,600"
+    "aUEC": 487600
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Aurora ES",
     "Role": "",
     "Location": "",
-    "aUEC": "124,100"
+    "aUEC": 124100
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Aurora LN",
     "Role": "",
     "Location": "",
-    "aUEC": "338,400"
+    "aUEC": 338400
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Aurora LX",
     "Role": "",
     "Location": "",
-    "aUEC": "245,500"
+    "aUEC": 245500
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Aurora MR",
     "Role": "",
     "Location": "",
-    "aUEC": "184,900"
+    "aUEC": 184900
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Avenger Stalker",
     "Role": "",
     "Location": "",
-    "aUEC": "882,200"
+    "aUEC": 882200
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Avenger Titan",
     "Role": "",
     "Location": "",
-    "aUEC": "785,600"
+    "aUEC": 785600
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Avenger Titan Renegade",
     "Role": "",
     "Location": "",
-    "aUEC": "1,076,600"
+    "aUEC": 1076600
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Avenger Warlock",
     "Role": "",
     "Location": "",
-    "aUEC": "1,155,500"
+    "aUEC": 1155500
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Ballista",
     "Role": "",
     "Location": "",
-    "aUEC": "364,500"
+    "aUEC": 364500
   },
   {
     "Manufacturer": "Esperia",
     "Ship": "Blade",
     "Role": "",
     "Location": "",
-    "aUEC": "3,370,600"
+    "aUEC": 3370600
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Buccaneer",
     "Role": "",
     "Location": "",
-    "aUEC": "1,410,100"
+    "aUEC": 1410100
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "C8 Pisces",
     "Role": "",
     "Location": "",
-    "aUEC": "406,000"
+    "aUEC": 406000
   },
   {
     "Manufacturer": "Anvil",
@@ -186,252 +186,252 @@
     "Ship": "Carrack",
     "Role": "",
     "Location": "",
-    "aUEC": "26,657,500"
+    "aUEC": 26657500
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Caterpillar",
     "Role": "",
     "Location": "",
-    "aUEC": "4,686,600"
+    "aUEC": 4686600
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Constellation Andromeda",
     "Role": "",
     "Location": "",
-    "aUEC": "3,548,000"
+    "aUEC": 3548000
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Constellation Aquila",
     "Role": "",
     "Location": "",
-    "aUEC": "4,926,700"
+    "aUEC": 4926700
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Constellation Phoenix",
     "Role": "",
     "Location": "",
-    "aUEC": "5,658,800"
+    "aUEC": 5658800
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Cutlass Black",
     "Role": "",
     "Location": "",
-    "aUEC": "1,385,300"
+    "aUEC": 1385300
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Cutlass Blue",
     "Role": "",
     "Location": "",
-    "aUEC": "2,493,500"
+    "aUEC": 2493500
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Cutlass Red",
     "Role": "",
     "Location": "",
-    "aUEC": "1,810,500"
+    "aUEC": 1810500
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone",
     "Role": "",
     "Location": "",
-    "aUEC": "28,309"
+    "aUEC": 28309
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone AA",
     "Role": "",
     "Location": "",
-    "aUEC": "28,086"
+    "aUEC": 28086
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone RC",
     "Role": "",
     "Location": "",
-    "aUEC": "28,086"
+    "aUEC": 28086
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone RN",
     "Role": "",
     "Location": "",
-    "aUEC": "28,086"
+    "aUEC": 28086
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone TR",
     "Role": "",
     "Location": "",
-    "aUEC": "28,086"
+    "aUEC": 28086
   },
   {
     "Manufacturer": "Banu",
     "Ship": "Defender",
     "Role": "",
     "Location": "",
-    "aUEC": "2,781,000"
+    "aUEC": 2781000
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Dragonfly",
     "Role": "",
     "Location": "",
-    "aUEC": "272,700"
+    "aUEC": 272700
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Eclipse",
     "Role": "",
     "Location": "",
-    "aUEC": "3,490,000"
+    "aUEC": 3490000
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Freelancer",
     "Role": "",
     "Location": "",
-    "aUEC": "1,697,600"
+    "aUEC": 1697600
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Freelancer DUR",
     "Role": "",
     "Location": "",
-    "aUEC": "1,967,600"
+    "aUEC": 1967600
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Freelancer MAX",
     "Role": "",
     "Location": "",
-    "aUEC": "2,181,500"
+    "aUEC": 2181500
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Freelancer MIS",
     "Role": "",
     "Location": "",
-    "aUEC": "2,537,800"
+    "aUEC": 2537800
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Gladiator",
     "Role": "",
     "Location": "",
-    "aUEC": "1,954,500"
+    "aUEC": 1954500
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Gladius",
     "Role": "",
     "Location": "",
-    "aUEC": "1,169,900"
+    "aUEC": 1169900
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Gladius Valiant",
     "Role": "",
     "Location": "",
-    "aUEC": "1,429,800"
+    "aUEC": "1429800
   },
   {
     "Manufacturer": "Esperia",
     "Ship": "Glaive",
     "Role": "",
     "Location": "",
-    "aUEC": "4,872,200"
+    "aUEC": 4872200
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Hammerhead",
     "Role": "",
     "Location": "",
-    "aUEC": "12,459,900"
+    "aUEC": 12459900
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hawk",
     "Role": "",
     "Location": "",
-    "aUEC": "1,284,400"
+    "aUEC": 1284400
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Herald",
     "Role": "",
     "Location": "",
-    "aUEC": "1,181,100"
+    "aUEC": 1181100
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7C",
     "Role": "",
     "Location": "",
-    "aUEC": "1,492,700"
+    "aUEC": 1492700
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7C Wildfire",
     "Role": "",
     "Location": "",
-    "aUEC": "2,246,100"
+    "aUEC": 2246100
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7CM Super",
     "Role": "",
     "Location": "",
-    "aUEC": "2,132,600"
+    "aUEC": 2132600
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7CR Tracker",
     "Role": "",
     "Location": "",
-    "aUEC": "1,832,100"
+    "aUEC": 1832100
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7CS Ghost",
     "Role": "",
     "Location": "",
-    "aUEC": "1,654,100"
+    "aUEC": 1654100
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hurricane",
     "Role": "",
     "Location": "",
-    "aUEC": "1,218,300"
+    "aUEC": 1218300
   },
   {
     "Manufacturer": "Aopoa",
     "Ship": "Khartu-al",
     "Role": "",
     "Location": "",
-    "aUEC": "2,113,900"
+    "aUEC": 2113900
   },
   {
     "Manufacturer": "Origin",
     "Ship": "M50",
     "Role": "",
     "Location": "",
-    "aUEC": "1,193,800"
+    "aUEC": 1193800
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Mantis",
     "Role": "",
     "Location": "",
-    "aUEC": "1,230,000"
+    "aUEC": 1230000
   },
   {
     "Manufacturer": "Crusader Industries",
@@ -445,56 +445,56 @@
     "Ship": "Mole",
     "Role": "",
     "Location": "",
-    "aUEC": "5,130,500"
+    "aUEC": 5130500
   },
   {
     "Manufacturer": "Argo",
     "Ship": "MPUV Cargo",
     "Role": "",
     "Location": "",
-    "aUEC": "224,000"
+    "aUEC": 224000
   },
   {
     "Manufacturer": "Argo",
     "Ship": "MPUV Transport",
     "Role": "",
     "Location": "",
-    "aUEC": "233,000"
+    "aUEC": 233000
   },
   {
     "Manufacturer": "CNOU",
     "Ship": "Mustang Alpha",
     "Role": "",
     "Location": "",
-    "aUEC": "251,400"
+    "aUEC": 251400
   },
   {
     "Manufacturer": "CNOU",
     "Ship": "Mustang Beta",
     "Role": "",
     "Location": "",
-    "aUEC": "404,000"
+    "aUEC": 404000
   },
   {
     "Manufacturer": "CNOU",
     "Ship": "Mustang Delta",
     "Role": "",
     "Location": "",
-    "aUEC": "763,600"
+    "aUEC": 763600
   },
   {
     "Manufacturer": "CNOU",
     "Ship": "Mustang Gamma",
     "Role": "",
     "Location": "",
-    "aUEC": "627,500"
+    "aUEC": 627500
   },
   {
     "Manufacturer": "CNOU",
     "Ship": "Mustang Omega",
     "Role": "",
     "Location": "",
-    "aUEC": "567,400"
+    "aUEC": 567400
   },
   {
     "Manufacturer": "CNOU",
@@ -508,21 +508,21 @@
     "Ship": "Nox",
     "Role": "",
     "Location": "",
-    "aUEC": "349,200"
+    "aUEC": 349200
   },
   {
     "Manufacturer": "Aopoa",
     "Ship": "Nox Kue",
     "Role": "",
     "Location": "",
-    "aUEC": "399,100"
+    "aUEC": 399100
   },
   {
     "Manufacturer": "Kruger",
     "Ship": "P-52 Merlin",
     "Role": "",
     "Location": "",
-    "aUEC": "135,500"
+    "aUEC": 135500
   },
   {
     "Manufacturer": "Kruger",
@@ -536,105 +536,105 @@
     "Ship": "Prospector",
     "Role": "",
     "Location": "",
-    "aUEC": "2,061,000"
+    "aUEC": 2061000
   },
   {
     "Manufacturer": "Esperia",
     "Ship": "Prowler",
     "Role": "",
     "Location": "",
-    "aUEC": "2,500,000"
+    "aUEC": 2500000
   },
   {
     "Manufacturer": "Greycat",
     "Ship": "PTV (Buggy)",
     "Role": "",
     "Location": "",
-    "aUEC": "5,145"
+    "aUEC": 5145
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Razor",
     "Role": "",
     "Location": "",
-    "aUEC": "1,761,200"
+    "aUEC": 1761200
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Razor EX",
     "Role": "",
     "Location": "",
-    "aUEC": "1,878,800"
+    "aUEC": 1878800
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Razor LX",
     "Role": "",
     "Location": "",
-    "aUEC": "1,823,800"
+    "aUEC": 1823800
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Reclaimer",
     "Role": "",
     "Location": "",
-    "aUEC": "15,126,400"
+    "aUEC": 15126400
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Reliant Kore",
     "Role": "",
     "Location": "",
-    "aUEC": "744,700"
+    "aUEC": 744700
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Reliant Mako",
     "Role": "",
     "Location": "",
-    "aUEC": "780,000"
+    "aUEC": 780000
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Reliant Sen",
     "Role": "",
     "Location": "",
-    "aUEC": "840,000"
+    "aUEC": 840000
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Reliant Tana",
     "Role": "",
     "Location": "",
-    "aUEC": "870,000"
+    "aUEC": 870000
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Retaliator",
     "Role": "",
     "Location": "",
-    "aUEC": "4,031,700"
+    "aUEC": 4031700
   },
   {
     "Manufacturer": "Greycat",
     "Ship": "ROC",
     "Role": "",
     "Location": "",
-    "aUEC": "172,000"
+    "aUEC": 172000
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Sabre",
     "Role": "",
     "Location": "",
-    "aUEC": "2,183,300"
+    "aUEC": 2183300
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Sabre Comet",
     "Role": "",
     "Location": "",
-    "aUEC": "2,354,100"
+    "aUEC": 2354100
   },
   {
     "Manufacturer": "Aegis",
@@ -648,69 +648,69 @@
     "Ship": "Scythe",
     "Role": "",
     "Location": "",
-    "aUEC": "4,242,700"
+    "aUEC": 4242700
   },
   {
     "Manufacturer": "MISC",
     "Ship": "StarFarer",
     "Role": "",
     "Location": "",
-    "aUEC": "6,651,500"
+    "aUEC": 6651500
   },
   {
     "Manufacturer": "MISC",
     "Ship": "Starfarer Gemini",
     "Role": "",
     "Location": "",
-    "aUEC": "6,191,500"
+    "aUEC": 6191500
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Terrapin",
     "Role": "",
     "Location": "",
-    "aUEC": "2,568,100"
+    "aUEC": 2568100
   },
   {
     "Manufacturer": "RSI",
     "Ship": "Ursa Rover",
     "Role": "",
     "Location": "",
-    "aUEC": "70,267"
+    "aUEC": 70267
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Valkyrie",
     "Role": "",
     "Location": "",
-    "aUEC": "4,454,400"
+    "aUEC": 4454400
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Vanguard Harbinger",
     "Role": "",
     "Location": "",
-    "aUEC": "2,050,500"
+    "aUEC": 2050500
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Vanguard Hoplite",
     "Role": "",
     "Location": "",
-    "aUEC": "3,104,200"
+    "aUEC": 3104200
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Vanguard Sentinel",
     "Role": "",
     "Location": "",
-    "aUEC": "2,012,000"
+    "aUEC": 2012000
   },
   {
     "Manufacturer": "Aegis",
     "Ship": "Vanguard Warden",
     "Role": "",
     "Location": "",
-    "aUEC": "3,387,800"
+    "aUEC": 3387800
   }
 ]
