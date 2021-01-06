@@ -399,13 +399,6 @@
     "aUEC": "1,230,000"
   },
   {
-    "Manufacturer": "Crusader Industries",
-    "Ship": "Mercury Star Runner",
-    "Role": "",
-    "Location": "",
-    "aUEC": ""
-  },
-  {
     "Manufacturer": "Argo",
     "Ship": "Mole",
     "Role": "Medium Mining",
@@ -462,13 +455,6 @@
     "aUEC": "567,400"
   },
   {
-    "Manufacturer": "CNOU",
-    "Ship": "Nomad",
-    "Role": "",
-    "Location": "",
-    "aUEC": ""
-  },
-  {
     "Manufacturer": "Aopoa",
     "Ship": "Nox",
     "Role": "Racing",
@@ -476,25 +462,11 @@
     "aUEC": "349,200"
   },
   {
-    "Manufacturer": "Aopoa",
-    "Ship": "Nox Kue",
-    "Role": "",
-    "Location": "",
-    "aUEC": "399,100"
-  },
-  {
     "Manufacturer": "Kruger",
     "Ship": "P-52 Merlin",
     "Role": "Combat Snub Fighter",
     "Location": "Area 18",
     "aUEC": "135,500"
-  },
-  {
-    "Manufacturer": "Kruger",
-    "Ship": "P-72 Archimedes",
-    "Role": "",
-    "Location": "",
-    "aUEC": ""
   },
   {
     "Manufacturer": "MISC",
