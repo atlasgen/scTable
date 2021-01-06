@@ -308,13 +308,6 @@
     "aUEC": "1,954,500"
   },
   {
-    "Manufacturer": "Esperia",
-    "Ship": "Glaive",
-    "Role": "",
-    "Location": "",
-    "aUEC": "4,872,200"
-  },
-  {
     "Manufacturer": "Aegis",
     "Ship": "Hammerhead",
     "Role": "Combat Corvette",
@@ -558,13 +551,6 @@
     "Role": "Stealth Fighter",
     "Location": "Loreville",
     "aUEC": "2,183,300"
-  },
-  {
-    "Manufacturer": "Esperia",
-    "Ship": "Scythe",
-    "Role": "",
-    "Location": "",
-    "aUEC": "4,242,700"
   },
   {
     "Manufacturer": "MISC",
