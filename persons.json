@@ -3,7 +3,7 @@
     "Manufacturer": "Origin",
     "Ship": "100i",
     "Role": "Exploration Starter / Pathfinder",
-    "Location": "Loreville",
+    "Location": "Loreville / Area 18",
     "aUEC": "654,000"
   },
   {
@@ -11,55 +11,55 @@
     "Ship": "125a",
     "Role": "Light Fighter",
     "Location": "Loreville",
-    "aUEC": "Light Fighter"
-  },
-  {
-    "Manufacturer": "Origin",
-    "Ship": "135c",
-    "Role": "Starter; Light Fighter",
-    "Location": "",
     "aUEC": ""
   },
   {
     "Manufacturer": "Origin",
+    "Ship": "135c",
+    "Role": "Exploration Light Freight",
+    "Location": "Area 18",
+    "aUEC": "839,000"
+  },
+  {
+    "Manufacturer": "Origin",
     "Ship": "300i",
-    "Role": "Touring",
-    "Location": "",
+    "Role": "Exploration Luxury",
+    "Location": "Area 18",
     "aUEC": "767,200"
   },
   {
     "Manufacturer": "Origin",
     "Ship": "315p",
-    "Role": "Pathfinder",
-    "Location": "",
+    "Role": "Exploration Pathfinder",
+    "Location": "Area 18",
     "aUEC": "882,600"
   },
   {
     "Manufacturer": "Origin",
     "Ship": "325a",
-    "Role": "Interdiction",
-    "Location": "",
+    "Role": "Combat Interceptor",
+    "Location": "Area 18",
     "aUEC": "944,200"
   },
   {
     "Manufacturer": "Origin",
     "Ship": "350r",
     "Role": "Racing",
-    "Location": "",
+    "Location": "Area 18",
     "aUEC": "1,602,100"
   },
   {
     "Manufacturer": "Origin",
     "Ship": "600i",
-    "Role": "Expedition",
-    "Location": "",
+    "Role": "Exploration Luxury",
+    "Location": "Area 18",
     "aUEC": "9,475,100"
   },
   {
     "Manufacturer": "Origin",
     "Ship": "600i Touring",
-    "Role": "Touring",
-    "Location": "",
+    "Role": "Exploration Luxury",
+    "Location": "Area 18",
     "aUEC": "9,894,000"
   },
   {
@@ -79,8 +79,8 @@
   {
     "Manufacturer": "Anvil",
     "Ship": "Arrow",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Light Fighter",
+    "Location": "Area 18",
     "aUEC": "972,300"
   },
   {
@@ -150,7 +150,7 @@
     "Manufacturer": "Anvil",
     "Ship": "Ballista",
     "Role": "Ground Vehicle",
-    "Location": "Loreville",
+    "Location": "Loreville / Area 18",
     "aUEC": "364,500"
   },
   {
@@ -177,15 +177,15 @@
   {
     "Manufacturer": "Anvil",
     "Ship": "C8X Pisces",
-    "Role": "",
-    "Location": "",
-    "aUEC": ""
+    "Role": "Exploration Pathfinding",
+    "Location": "Area 18",
+    "aUEC": "406,000"
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Carrack",
-    "Role": "",
-    "Location": "",
+    "Role": "Exploration Expedition",
+    "Location": "Area 18",
     "aUEC": "26,657,500"
   },
   {
@@ -275,8 +275,8 @@
   {
     "Manufacturer": "Banu",
     "Ship": "Defender",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Light Fighter",
+    "Location": "Area 18",
     "aUEC": "2,781,000"
   },
   {
@@ -324,8 +324,8 @@
   {
     "Manufacturer": "Anvil",
     "Ship": "Gladiator",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Bomber",
+    "Location": "Area 18",
     "aUEC": "1,954,500"
   },
   {
@@ -359,8 +359,8 @@
   {
     "Manufacturer": "Anvil",
     "Ship": "Hawk",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Light Fighter",
+    "Location": "Area 18",
     "aUEC": "1,284,400"
   },
   {
@@ -387,43 +387,43 @@
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7CM Super",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Medium Fighter",
+    "Location": "Area 18",
     "aUEC": "2,132,600"
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7CR Tracker",
-    "Role": "",
-    "Location": "",
+    "Role": "Exploration Pathfinder",
+    "Location": "Area 18",
     "aUEC": "1,832,100"
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7CS Ghost",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Stealth Fighter",
+    "Location": "Area 18",
     "aUEC": "1,654,100"
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hurricane",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Medium Fighter",
+    "Location": "Area 18",
     "aUEC": "1,218,300"
   },
   {
     "Manufacturer": "Aopoa",
     "Ship": "Khartu-al",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Light Fighter",
+    "Location": "Area 18",
     "aUEC": "2,113,900"
   },
   {
     "Manufacturer": "Origin",
     "Ship": "M50",
     "Role": "Racing",
-    "Location": "Loreville",
+    "Location": "Loreville / Area 18",
     "aUEC": "1,193,800"
   },
   {
@@ -478,15 +478,15 @@
   {
     "Manufacturer": "CNOU",
     "Ship": "Mustang Delta",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Light Fighter",
+    "Location": "Area 18",
     "aUEC": "763,600"
   },
   {
     "Manufacturer": "CNOU",
     "Ship": "Mustang Gamma",
-    "Role": "",
-    "Location": "",
+    "Role": "Racing",
+    "Location": "Area 18",
     "aUEC": "627,500"
   },
   {
@@ -506,8 +506,8 @@
   {
     "Manufacturer": "Aopoa",
     "Ship": "Nox",
-    "Role": "",
-    "Location": "",
+    "Role": "Racing",
+    "Location": "Area 18",
     "aUEC": "349,200"
   },
   {
@@ -520,8 +520,8 @@
   {
     "Manufacturer": "Kruger",
     "Ship": "P-52 Merlin",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Snub Fighter",
+    "Location": "Area 18",
     "aUEC": "135,500"
   },
   {
@@ -541,8 +541,8 @@
   {
     "Manufacturer": "Esperia",
     "Ship": "Prowler",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Drop Ship",
+    "Location": "Area 18",
     "aUEC": "2,500,000"
   },
   {
@@ -683,8 +683,8 @@
   {
     "Manufacturer": "Anvil",
     "Ship": "Terrapin",
-    "Role": "",
-    "Location": "",
+    "Role": "Support Pathfinder",
+    "Location": "Area 18",
     "aUEC": "2,568,100"
   },
   {
@@ -697,8 +697,8 @@
   {
     "Manufacturer": "Anvil",
     "Ship": "Valkyrie",
-    "Role": "",
-    "Location": "",
+    "Role": "Combat Drop Ship",
+    "Location": "Area 18",
     "aUEC": "4,454,400"
   },
   {
