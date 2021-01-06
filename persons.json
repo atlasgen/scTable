@@ -240,36 +240,36 @@
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone",
-    "Role": "",
-    "Location": "",
-    "aUEC": "28,309"
+    "Role": "Ground",
+    "Location": "Loreville",
+    "aUEC": "28,086"
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone AA",
-    "Role": "",
-    "Location": "",
+    "Role": "Ground",
+    "Location": "Loreville",
     "aUEC": "28,086"
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone RC",
-    "Role": "",
-    "Location": "",
+    "Role": "Ground",
+    "Location": "Loreville",
     "aUEC": "28,086"
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone RN",
-    "Role": "",
-    "Location": "",
+    "Role": "Ground",
+    "Location": "Loreville",
     "aUEC": "28,086"
   },
   {
     "Manufacturer": "Tumbril",
     "Ship": "Cyclone TR",
-    "Role": "",
-    "Location": "",
+    "Role": "Ground",
+    "Location": "Loreville",
     "aUEC": "28,086"
   },
   {
