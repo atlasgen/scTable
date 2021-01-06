@@ -11,7 +11,7 @@
     "Ship": "125a",
     "Role": "Light Fighter",
     "Location": "Loreville",
-    "aUEC": ""
+    "aUEC": "791,000"
   },
   {
     "Manufacturer": "Origin",
@@ -138,6 +138,13 @@
     "Role": "Combat Interceptor",
     "Location": "Loreville",
     "aUEC": "1,155,500"
+  },
+  {
+    "Manufacturer": "Aegis",
+    "Ship": "Retaliator",
+    "Role": "Combat Heavy Bomber",
+    "Location": "Loreville",
+    "aUEC": "4,031,700"
   },
   {
     "Manufacturer": "Anvil",
