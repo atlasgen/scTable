@@ -162,13 +162,6 @@
   },
   {
     "Manufacturer": "Anvil",
-    "Ship": "C8 Pisces",
-    "Role": "",
-    "Location": "",
-    "aUEC": "406,000"
-  },
-  {
-    "Manufacturer": "Anvil",
     "Ship": "C8X Pisces Expedition",
     "Role": "Exploration Pathfinding",
     "Location": "Area 18",
@@ -448,13 +441,6 @@
     "aUEC": "627,500"
   },
   {
-    "Manufacturer": "CNOU",
-    "Ship": "Mustang Omega",
-    "Role": "",
-    "Location": "",
-    "aUEC": "567,400"
-  },
-  {
     "Manufacturer": "Aopoa",
     "Ship": "Nox",
     "Role": "Racing",
@@ -554,13 +540,6 @@
   },
   {
     "Manufacturer": "Aegis",
-    "Ship": "Retaliator",
-    "Role": "",
-    "Location": "",
-    "aUEC": "4,031,700"
-  },
-  {
-    "Manufacturer": "Aegis",
     "Ship": "Gladius",
     "Role": "Light Fighter",
     "Location": "Loreville",
@@ -579,14 +558,6 @@
     "Role": "Stealth Fighter",
     "Location": "Loreville",
     "aUEC": "2,183,300"
-  },
-
-  {
-    "Manufacturer": "Aegis",
-    "Ship": "Sabre Raven",
-    "Role": "",
-    "Location": "",
-    "aUEC": ""
   },
   {
     "Manufacturer": "Esperia",
