@@ -1,1 +1,7 @@
-  {"Ship": "100i"}
+{
+    "Manufacturer": "Origin",
+    "Ship": "100i",
+    "Role": "Exploration Starter / Pathfinder",
+    "Location": "Loreville / Area 18",
+    "aUEC": "654,000"
+  }
