@@ -1,4 +1,3 @@
-[
   {
     "Manufacturer": "Origin",
     "Ship": "100i",
@@ -622,4 +621,3 @@
     "Location": "Loreville",
     "aUEC": "3,387,800"
   }
-]
