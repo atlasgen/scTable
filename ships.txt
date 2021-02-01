@@ -4,4 +4,11 @@
     "Role": "Exploration Starter / Pathfinder",
     "Location": "Loreville / Area 18",
     "aUEC": "654,000"
-  }
+  },
+{
+    "Manufacturer": "Origin",
+    "Ship": "125a",
+    "Role": "Light Fighter",
+    "Location": "Loreville",
+    "aUEC": "791,000"
+}
