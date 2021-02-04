@@ -87,7 +87,7 @@
     "Manufacturer": "RSI",
     "Ship": "Aurora CL",
     "Role": "Transporter Light Freight",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "487,600"
   },
   {
@@ -101,7 +101,7 @@
     "Manufacturer": "RSI",
     "Ship": "Aurora LN",
     "Role": "Combat Light Fighter",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "338,400"
   },
   {
@@ -157,14 +157,14 @@
     "Manufacturer": "Esperia",
     "Ship": "Blade",
     "Role": "Combat Light Fighter",
-    "Location": "Levski",
+    "Location": "Area 18",
     "aUEC": "3,370,600"
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Buccaneer",
     "Role": "Combat Light Fighter",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "1,410,100"
   },
   {
@@ -185,7 +185,7 @@
     "Manufacturer": "Drake",
     "Ship": "Caterpillar",
     "Role": "Medium Freight",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "4,686,600"
   },
   {
@@ -213,21 +213,21 @@
     "Manufacturer": "Drake",
     "Ship": "Cutlass Black",
     "Role": "Multi-Role Medium Fighter / Medium Freight",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "1,385,300"
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Cutlass Blue",
     "Role": "Multi-Role Medium Fighter / Medium Freight",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "2,493,500"
   },
   {
     "Manufacturer": "Drake",
     "Ship": "Cutlass Red",
     "Role": "Multi-Role Medical",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "1,810,500"
   },
   {
@@ -276,7 +276,7 @@
     "Manufacturer": "Drake",
     "Ship": "Dragonfly",
     "Role": "Racing",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "272,700"
   },
   {
@@ -331,15 +331,15 @@
   {
     "Manufacturer": "Drake",
     "Ship": "Herald",
-    "Role": "TransporterMedium Data",
-    "Location": "Levski",
+    "Role": "Transporter Medium Data",
+    "Location": "Loreville",
     "aUEC": "1,181,100"
   },
   {
     "Manufacturer": "Anvil",
     "Ship": "Hornet F7C",
     "Role": "Combat Medium Fighter",
-    "Location": "Levski",
+    "Location": "Area 18",
     "aUEC": "1,492,700"
   },
   {
@@ -402,14 +402,14 @@
     "Manufacturer": "Argo",
     "Ship": "MPUV Cargo",
     "Role": "Transporter Light Freight",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "224,000"
   },
   {
     "Manufacturer": "Argo",
     "Ship": "MPUV Transport",
     "Role": "Transporter Passenger",
-    "Location": "Levski",
+    "Location": "Loreville",
     "aUEC": "233,000"
   },
   {
@@ -458,7 +458,7 @@
     "Manufacturer": "MISC",
     "Ship": "Prospector",
     "Role": "Light Mining",
-    "Location": "Loreville / Levski",
+    "Location": "Loreville",
     "aUEC": "2,061,000"
   },
   {
@@ -472,7 +472,7 @@
     "Manufacturer": "Greycat",
     "Ship": "PTV (Buggy)",
     "Role": "Ground",
-    "Location": "Levski",
+    "Location": "Area 18",
     "aUEC": "5,145"
   },
   {
